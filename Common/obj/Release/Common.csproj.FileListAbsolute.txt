@@ -1,0 +1,15 @@
+F:\Xuxy\C#\C#\NMRT_Simple\NMRT\Common\bin\Release\Common.dll
+F:\Xuxy\C#\C#\NMRT_Simple\NMRT\Common\bin\Release\Common.pdb
+F:\Xuxy\C#\C#\NMRT_Simple\NMRT\Common\obj\Release\ResolveAssemblyReference.cache
+F:\Xuxy\C#\C#\NMRT_Simple\NMRT\Common\obj\Release\Common.dll
+F:\Xuxy\C#\C#\NMRT_Simple\NMRT\Common\obj\Release\Common.pdb
+E:\C#\NMRT_Simple\NMRT\Common\bin\Release\Common.dll
+E:\C#\NMRT_Simple\NMRT\Common\bin\Release\Common.pdb
+E:\C#\NMRT_Simple\NMRT\Common\obj\Release\ResolveAssemblyReference.cache
+E:\C#\NMRT_Simple\NMRT\Common\obj\Release\Common.dll
+E:\C#\NMRT_Simple\NMRT\Common\obj\Release\Common.pdb
+E:\C#Project\NMRT_Simple\NMRT\Common\bin\Release\Common.dll
+E:\C#Project\NMRT_Simple\NMRT\Common\bin\Release\Common.pdb
+E:\C#Project\NMRT_Simple\NMRT\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+E:\C#Project\NMRT_Simple\NMRT\Common\obj\Release\Common.dll
+E:\C#Project\NMRT_Simple\NMRT\Common\obj\Release\Common.pdb
